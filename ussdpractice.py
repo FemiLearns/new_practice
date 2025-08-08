@@ -1,4 +1,4 @@
-ussd = input('Enter USSD: ')
+print (input("Enter USSD: "))
 print("welcome to Zion Bank!")
 print("1. to request for atm")
 print("2. to speak to customer care")
